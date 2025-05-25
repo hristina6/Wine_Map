@@ -1,6 +1,10 @@
-## Winery Map
-Winery Map is a web application that provides and interactive map of wineries. It uses plug in for Google Maps to display Winery locations. It also provides information for every winery with menu, ratings and other features.
-# Features
-- Frontend: HTML, CSS, Thymeleaf 
-- Backend: Java Spring Boot
-- Database: PostgreSQL
+# Winery Map
+Web Platform for showcasing wineries in Macedonia featuring an interactive map that allows users to explore their locations, details, and menus.
+## Features
+- **Interactive Map:** Visual representation of winery locations using API with clickable markers.
+- **Search Bar:** Search specific wineries by name.
+- **User Ratings:** Submit ratings (1-5 stars).
+## Technologies:
+- Backend: Java Spring Boot 
+- Frontend: Thymeleaf, HTML, CSS
+- Database: PostgreSQL 
